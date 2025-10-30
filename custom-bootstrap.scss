@@ -59,6 +59,10 @@ $card-bg: $dark;
 $card-color: $info;
 $card-border-radius: 2rem;
 
+// BORDER RADIUS PILL
+$badge-border-radius:  var(--#{$prefix}border-radius-pill);
+$input-border-radius: var(--#{$prefix}border-radius-pill);
+$btn-border-radius:var(--#{$prefix}border-radius-pill); 
 
 // IMPORTO BOOTSTRAP
 @import './scss/bootstrap.scss';
