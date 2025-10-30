@@ -54,6 +54,11 @@ $btn-padding-x: 2.5rem;
 // GUTTER DEFAULT
 $grid-gutter-width: 0.5rem;
 
+// CARD DEFAULT
+$card-bg: $dark;
+$card-color: $info;
+$card-border-radius: 2rem;
+
 
 // IMPORTO BOOTSTRAP
 @import './scss/bootstrap.scss';
